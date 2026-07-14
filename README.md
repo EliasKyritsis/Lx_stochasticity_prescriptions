@@ -4,7 +4,7 @@
 Repository for the application of the prescriptions presented in the paper "Prescriptions for the stochasticity effect on the integrated X-ray luminosity of star-forming galaxies:Implications for selecting star-forming galaxies and AGN in X-ray surveys"
 
 Astronomy & Astrophysics\
-ArXiv: TBW \
+ArXiv: 2606.30624  \
 ADS: TBW \
 Publisher (A&A): TBW 
 
